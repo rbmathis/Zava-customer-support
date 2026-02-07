@@ -2,4 +2,4 @@
 
 Support ticket and chat system
 
-Update 5 by Marcus Williams
+Update 6 by Yuki Tanaka
